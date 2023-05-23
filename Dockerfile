@@ -1,4 +1,4 @@
-FROM python:3.11.1-slim-bullseye
+FROM python:3.11.3-slim-bullseye
 # python3.11 -m venv venv && . ./venv/bin/activate
 ENV VIRTUAL_ENV=/opt/venv
 RUN python3.11 -m venv $VIRTUAL_ENV
