@@ -28,7 +28,7 @@ app2 = Client(
     "bot",
     2992000,
     "235b12e862d71234ea222082052822fd",
-    bot_token="5642095585:AAFZbW1-2asinNkp_Qd53Jni8rnWPFnRF10",
+    bot_token="5642095585:AAGxFAx3OIE9PaAHR5Z5YbPxf16haUwJS14",
 )
 
 msg = []
