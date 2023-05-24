@@ -13,7 +13,7 @@ from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 ENDPOINT = "https://ba9816a848610aed92b1359ca60ff37a.r2.cloudflarestorage.com/"
 ACCESS_KEY = "24c2515db578726cd36ea0772946474b"
 SECRET_KEY = "b79167444ad27359f7e587bff2bf72bea9003add5a6411d0ce98276645133e36"
-APP_URL = "https://pub-017372d957bd43e39520ad15aed7d2be.r2.dev"
+APP_URL = "https://dumpstore.online"
 app2 = Client("bot", 2992000, "235b12e862d71234ea222082052822fd",
               bot_token="5822153402:AAGcbKRO1aKU2zsvRNDHRw3YKHsP6uJb6X0")
 
